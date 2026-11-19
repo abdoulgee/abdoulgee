@@ -1,119 +1,182 @@
-<div align="center">
+&#x20;\<div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · abdoulgee</sub></p>
-<h1>ABDULLAHI HUDU ( abdulgee_dev )</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Hello, I'm Abdulgee!
- Python Enthusiast | Cybersecurity Professional
- Securing the digital world one line of code at a time</p>
-<p><strong>● Building and sharing work in public</strong></p>
+\<table width="100%">
+\<tr>
+\<td width="68%" valign="middle">
 
-<p><a href="https://github.com/abdoulgee">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/90545714?u=2f0d0a7ae986ab3c18ef5c6047226ad0f509bb14&amp;v=4" width="180" alt="ABDULLAHI HUDU ( abdulgee_dev ) GitHub avatar" />
-</td>
-</tr>
-</table>
-</div>
+\<p>\<sub>ENGINEERING PROFILE · NIGERIA\</sub>\</p>
 
-<h2>What teams can evaluate quickly</h2>
+\<h1>ABDULLAHI HUDU\</h1>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · JavaScript · HTML</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>32 repositories · 13 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>178 contributions · 47 active days</p></td>
-</tr>
-</table>
+\<h2>Full-Stack Software Engineer\</h2>
 
-<p><sub>Hello, I'm Abdulgee!
- Python Enthusiast | Cybersecurity Professional
- Securing the digital world one line of code at a time</sub></p>
+\<p>Python Automation · Backend Engineering · Cybersecurity\</p>
 
-<h2>Proof at a glance</h2>
+\<p>
+I build software, engineer backend systems, automate workflows, and explore cybersecurity. Passionate about turning complex problems into practical technology.
+\</p>
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>32</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>13</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>178</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>6</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+\<p>\<strong>● Building products · Automating systems · Exploring security\</strong>\</p>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=abdoulgee&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90545714%3Fu%3D2f0d0a7ae986ab3c18ef5c6047226ad0f509bb14%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=abdoulgee&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90545714%3Fu%3D2f0d0a7ae986ab3c18ef5c6047226ad0f509bb14%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="ABDULLAHI HUDU ( abdulgee_dev ) GitHub proof metrics" />
-</picture>
-</p>
+\<p>
+\<a href="[https://github.com/abdoulgee](https://github.com/abdoulgee)">GitHub\</a> · Nigeria
+\</p>
 
-<h2>Selected work</h2>
+\</td>
+\<td width="32%" valign="middle" align="center">
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=abdoulgee&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90545714%3Fu%3D2f0d0a7ae986ab3c18ef5c6047226ad0f509bb14%26v%3D4&repos=abdoulgee%2Fscanner%2Cabdoulgee%2FAbdulgee-software%2Cabdoulgee%2Fyazeed-abbalo%2Cabdoulgee%2Fabdulgee_payload.github.io&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=abdoulgee&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90545714%3Fu%3D2f0d0a7ae986ab3c18ef5c6047226ad0f509bb14%26v%3D4&repos=abdoulgee%2Fscanner%2Cabdoulgee%2FAbdulgee-software%2Cabdoulgee%2Fyazeed-abbalo%2Cabdoulgee%2Fabdulgee_payload.github.io&v=recruiter-projects-1&mode=dark" width="100%" alt="ABDULLAHI HUDU ( abdulgee_dev ) selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/abdoulgee/scanner">scanner</a></h3>
-<p>mobile phone number scanner for gathering information by just using target phone number</p>
-<p><sub>Python · ⭐ 5 · 🍴 1</sub></p>
-<p><a href="https://github.com/abdoulgee/scanner">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+\<img src="[https://github.com/abdoulgee.png](https://github.com/abdoulgee.png)" width="180" alt="Abdullahi Hudu GitHub avatar" />
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/abdoulgee/Abdulgee-software">Abdulgee-software</a></h3><p>Make a free transfer of money</p><p><sub>Python · ⭐ 4</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/abdoulgee/yazeed-abbalo">yazeed-abbalo</a></h3><p>Hack any social media accounts</p><p><sub>Python · ⭐ 3</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/abdoulgee/abdulgee_payload.github.io">abdulgee_payload.github.io</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 1</sub></p></td>
-</tr>
-</table>
+\</td>
+\</tr>
+\</table>
 
-<h2>Technical toolkit</h2>
+\</div>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=abdoulgee&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90545714%3Fu%3D2f0d0a7ae986ab3c18ef5c6047226ad0f509bb14%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=abdoulgee&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90545714%3Fu%3D2f0d0a7ae986ab3c18ef5c6047226ad0f509bb14%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="ABDULLAHI HUDU ( abdulgee_dev ) technology stack" />
-</picture>
-</p>
+---
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>53% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>17% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>16% of public code</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>7% of public code</sub></td>
-<td width="20%" align="center"><strong>Kotlin</strong><br /><sub>2% of public code</sub></td>
-</tr>
-</table>
+\<h2>What teams can evaluate quickly\</h2>
 
-<h2>Consistency signal</h2>
+\<table width="100%">
+\<tr>
+\<td width="33%" valign="top">
+\<h3>Role fit\</h3>
+\<p>Full-Stack Developer · Python Engineer · Cybersecurity & SOC\</p>
+\</td>
+\<td width="33%" valign="top">
+\<h3>Engineering\</h3>
+\<p>Backend APIs · Web Applications · Database Systems · Automation\</p>
+\</td>
+\<td width="33%" valign="top">
+\<h3>Security\</h3>
+\<p>Web Application Security · Vulnerability Assessment · SOC Fundamentals\</p>
+\</td>
+\</tr>
+\</table>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=abdoulgee&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90545714%3Fu%3D2f0d0a7ae986ab3c18ef5c6047226ad0f509bb14%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=abdoulgee&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90545714%3Fu%3D2f0d0a7ae986ab3c18ef5c6047226ad0f509bb14%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="ABDULLAHI HUDU ( abdulgee_dev ) contribution activity" />
-</picture>
-</p>
+\<p>\<sub>Focused on building reliable software, automating processes, and understanding application security.\</sub>\</p>
 
-<hr />
+---
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/abdoulgee">GitHub</a></td>
-</tr>
-</table>
+\<h2>Proof at a glance\</h2>
 
-<p align="center"><sub>ABDULLAHI HUDU ( abdulgee_dev ) · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+\<p align="center">
+\<picture>
+&#x20; \<source media="(prefers-color-scheme: light)" srcset="[https://www.gitskins.com/api/section/stats?username=abdoulgee&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Fabdoulgee.png&v=abdoulgee-stats-1&mode=light](https://www.gitskins.com/api/section/stats?username=abdoulgee\&theme=github-dark\&avatar=https%3A%2F%2Fgithub.com%2Fabdoulgee.png\&v=abdoulgee-stats-1\&mode=light)" />
+&#x20; \<img src="[https://www.gitskins.com/api/section/stats?username=abdoulgee&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Fabdoulgee.png&v=abdoulgee-stats-1&mode=dark](https://www.gitskins.com/api/section/stats?username=abdoulgee\&theme=github-dark\&avatar=https%3A%2F%2Fgithub.com%2Fabdoulgee.png\&v=abdoulgee-stats-1\&mode=dark)" width="100%" alt="Abdullahi Hudu GitHub statistics" />
+\</picture>
+\</p>
+
+---
+
+\<h2>Selected work\</h2>
+
+\<table width="100%">
+\<tr>
+\<td width="58%" valign="top">
+\<picture>
+&#x20; \<source media="(prefers-color-scheme: light)" srcset="[https://www.gitskins.com/api/section/projects?username=abdoulgee&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Fabdoulgee.png&repos=abdoulgee%2Fmau_mart%2Cabdoulgee%2Fminichat&v=abdoulgee-projects-1&mode=light](https://www.gitskins.com/api/section/projects?username=abdoulgee\&theme=github-dark\&avatar=https%3A%2F%2Fgithub.com%2Fabdoulgee.png\&repos=abdoulgee%2Fmau_mart%2Cabdoulgee%2Fminichat\&v=abdoulgee-projects-1\&mode=light)" />
+&#x20; \<img src="[https://www.gitskins.com/api/section/projects?username=abdoulgee&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Fabdoulgee.png&repos=abdoulgee%2Fmau_mart%2Cabdoulgee%2Fminichat&v=abdoulgee-projects-1&mode=dark](https://www.gitskins.com/api/section/projects?username=abdoulgee\&theme=github-dark\&avatar=https%3A%2F%2Fgithub.com%2Fabdoulgee.png\&repos=abdoulgee%2Fmau_mart%2Cabdoulgee%2Fminichat\&v=abdoulgee-projects-1\&mode=dark)" width="100%" alt="Selected projects" />
+\</picture>
+\</td>
+\<td width="42%" valign="top">
+
+\<h3>\<a href="[https://github.com/abdoulgee/mau_mart](https://github.com/abdoulgee/mau_mart)">MAU Mart\</a>\</h3>
+
+\<p>A campus marketplace platform designed to connect students through a digital buying and selling experience.\</p>
+
+\<p>\<sub>Python · Backend · Database\</sub>\</p>
+
+\<p>\<a href="[https://github.com/abdoulgee/mau_mart](https://github.com/abdoulgee/mau_mart)">Explore project →\</a>\</p>
+
+\<hr />
+
+\<h3>\<a href="[https://github.com/abdoulgee/minichat](https://github.com/abdoulgee/minichat)">MiniChat\</a>\</h3>
+
+\<p>A mobile messaging application project integrating Flutter, backend services, and database systems.\</p>
+
+\<p>\<sub>Flutter · Dart · MySQL\</sub>\</p>
+
+\<p>\<a href="[https://github.com/abdoulgee/minichat](https://github.com/abdoulgee/minichat)">Explore project →\</a>\</p>
+
+\</td>
+\</tr>
+\</table>
+
+---
+
+\<h2>Technical toolkit\</h2>
+
+\<p align="center">
+\<picture>
+&#x20; \<source media="(prefers-color-scheme: light)" srcset="[https://www.gitskins.com/api/section/stack?username=abdoulgee&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Fabdoulgee.png&v=abdoulgee-stack-1&mode=light](https://www.gitskins.com/api/section/stack?username=abdoulgee\&theme=github-dark\&avatar=https%3A%2F%2Fgithub.com%2Fabdoulgee.png\&v=abdoulgee-stack-1\&mode=light)" />
+&#x20; \<img src="[https://www.gitskins.com/api/section/stack?username=abdoulgee&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Fabdoulgee.png&v=abdoulgee-stack-1&mode=dark](https://www.gitskins.com/api/section/stack?username=abdoulgee\&theme=github-dark\&avatar=https%3A%2F%2Fgithub.com%2Fabdoulgee.png\&v=abdoulgee-stack-1\&mode=dark)" width="100%" alt="Abdullahi Hudu technical stack" />
+\</picture>
+\</p>
+
+\<table width="100%">
+\<tr>
+\<td width="33%" valign="top">
+\<h3>Development\</h3>
+\<p>Python · JavaScript · HTML · CSS · FastAPI · Flask · Django\</p>
+\</td>
+\<td width="33%" valign="top">
+\<h3>Infrastructure\</h3>
+\<p>Linux · Docker · Git · GitHub · MySQL · PostgreSQL\</p>
+\</td>
+\<td width="33%" valign="top">
+\<h3>Security\</h3>
+\<p>Burp Suite · OWASP · Web Pentesting · Security Analysis\</p>
+\</td>
+\</tr>
+\</table>
+
+---
+
+\<h2>Engineering focus\</h2>
+
+\<table width="100%">
+\<tr>
+\<td width="50%" valign="top">
+\<h3>Software Engineering\</h3>
+\<ul>
+\<li>Full-stack application development\</li>
+\<li>Backend architecture and REST APIs\</li>
+\<li>Database design and integrations\</li>
+\<li>Authentication and authorization\</li>
+\<li>Product development\</li>
+\</ul>
+\</td>
+\<td width="50%" valign="top">
+\<h3>Cybersecurity & Automation\</h3>
+\<ul>
+\<li>Python scripting and automation\</li>
+\<li>Web application security\</li>
+\<li>Vulnerability assessment\</li>
+\<li>Security monitoring fundamentals\</li>
+\<li>Log analysis and incident response concepts\</li>
+\</ul>
+\</td>
+\</tr>
+\</table>
+
+---
+
+\<h2>Consistency signal\</h2>
+
+\<p align="center">
+\<picture>
+&#x20; \<source media="(prefers-color-scheme: light)" srcset="[https://www.gitskins.com/api/section/heatmap?username=abdoulgee&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Fabdoulgee.png&v=abdoulgee-heatmap-1&mode=light](https://www.gitskins.com/api/section/heatmap?username=abdoulgee\&theme=github-dark\&avatar=https%3A%2F%2Fgithub.com%2Fabdoulgee.png\&v=abdoulgee-heatmap-1\&mode=light)" />
+&#x20; \<img src="[https://www.gitskins.com/api/section/heatmap?username=abdoulgee&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Fabdoulgee.png&v=abdoulgee-heatmap-1&mode=dark](https://www.gitskins.com/api/section/heatmap?username=abdoulgee\&theme=github-dark\&avatar=https%3A%2F%2Fgithub.com%2Fabdoulgee.png\&v=abdoulgee-heatmap-1\&mode=dark)" width="100%" alt="GitHub contribution activity" />
+\</picture>
+\</p>
+
+---
+
+\<table width="100%"> \<tr> \<td width="68%" valign="middle"> \<h2>Let's build something meaningful.\</h2> \<p>Open to software engineering collaborations, interesting products, cybersecurity projects, and opportunities to solve real-world problems with technology.\</p> \</td> \<td width="32%" valign="middle" align="right"> \<a href="[https://github.com/abdoulgee](https://github.com/abdoulgee)">Explore my GitHub →\</a> \</td> \</tr> \</table>
+
+\<div align="center">
+
+\<sub>ABDULLAHI HUDU · SOFTWARE ENGINEERING · PYTHON · CYBERSECURITY\</sub>
+
+\</div>
